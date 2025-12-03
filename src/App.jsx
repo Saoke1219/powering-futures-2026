@@ -5,11 +5,11 @@ import WhyAttend from "./components/WhyAttend";
 import RegistrationForm from "./components/RegistrationForm";
 import ProgramTabs from "./components/ProgramTabs";
 import SponsorshipSection from "./components/SponsorshipSection";
-import VenueTravelSection from "./components/VenueTravelSection";
 import ExploreKenya from "./components/ExploreKenya";
 import VisaInfo from "./components/VisaInfo";
 import ContactSection from "./components/ContactSection";
 import Footer from "./components/Footer";
+import VenueTravelSection from "./components/VenuetravelSection";
 
 export default function App() {
   return (
@@ -56,7 +56,7 @@ export default function App() {
         </section>
 
         <section id="travel" className="bg-[#003845] text-white">
-          <VenueTravelSection />
+            <VenueTravelSection />
         </section>
 
         <section id="explore-kenya" className="bg-white">
