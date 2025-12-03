@@ -18,7 +18,7 @@ const navItems = [
             />
             <div className="leading-tight">
               <p className="text-[11px] uppercase tracking-[0.2em] text-slate-500">
-                World Energy Council, Kenya
+                World Energy Council, Kenya.
               </p>
               <p className="text-sm font-semibold text-slate-900">
                 Conference 2026 – Nairobi
