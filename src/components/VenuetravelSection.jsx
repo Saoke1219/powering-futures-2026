@@ -44,8 +44,6 @@ export default function VenueTravelSection() {
   </div>
   
   </section>
-  
-  
         {/* 3-column Info */}
         <section className="grid gap-8 md:grid-cols-3 text-sm sm:text-base">
           
